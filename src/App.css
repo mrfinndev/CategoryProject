@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin: 30px 0;
+  font-weight: bolder;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.category_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.category_card {
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  padding: 20px;
+  width: 250px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  text-align: center;
+}
+
+.category_card:hover {
+  transform: scale(1.05);
+}
+.category_card h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.category_card p {
+  color: #555;
+  font-size: 16px;
+}
+.category_image {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
