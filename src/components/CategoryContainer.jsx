@@ -6,19 +6,22 @@ const categories = [
     id: 1,
     name: "Technology",
     description: "Latest trends in technology",
-    imageUrl: "/public/image/one.jpg",
+    imageUrl:
+      "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=600",
   },
   {
     id: 2,
     name: "Health",
     description: "Health and wellness tips",
-    imageUrl: "/public/image/two.jpg",
+    imageUrl:
+      "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&w=600",
   },
   {
     id: 3,
     name: "Business",
     description: "Business and finance news",
-    imageUrl: "/public/image/three.jpg",
+    imageUrl:
+      "https://images.pexels.com/photos/3184416/pexels-photo-3184416.jpeg?auto=compress&cs=tinysrgb&w=600",
   },
   {
     id: 4,
