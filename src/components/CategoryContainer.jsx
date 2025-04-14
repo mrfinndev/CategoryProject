@@ -1,29 +1,30 @@
 import CategoryCard from "./CategoryCard";
+
 // Array of objects called categories
 const categories = [
   {
     id: 1,
     name: "Technology",
     description: "Latest trends in technology",
-    imageUrl: "/src/assets/image/one.jpg",
+    imageUrl: "/public/image/one.jpg",
   },
   {
     id: 2,
     name: "Health",
     description: "Health and wellness tips",
-    imageUrl: "/src/assets/image/two.jpg",
+    imageUrl: "/public/image/two.jpg",
   },
   {
     id: 3,
     name: "Business",
     description: "Business and finance news",
-    imageUrl: "/src/assets/image/three.jpg",
+    imageUrl: "/public/image/three.jpg",
   },
   {
     id: 4,
     name: "Lifestyle",
     description: "Lifestyle and culture",
-    imageUrl: "/src/assets/image/four.jpg",
+    imageUrl: "/public/image/four.jpg",
   },
 ];
 
