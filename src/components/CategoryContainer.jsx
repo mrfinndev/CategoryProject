@@ -1,6 +1,6 @@
 import CategoryCard from "./CategoryCard";
 
-// Array of objects called categories
+// Array of object called categories, each category has an id, name, description, and image URL
 const categories = [
   {
     id: 1,
