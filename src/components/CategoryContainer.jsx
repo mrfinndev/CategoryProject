@@ -27,7 +27,8 @@ const categories = [
     id: 4,
     name: "Lifestyle",
     description: "Lifestyle and culture",
-    imageUrl: "/public/image/four.jpg",
+    imageUrl:
+      "https://images.pexels.com/photos/725255/pexels-photo-725255.jpeg?auto=compress&cs=tinysrgb&w=600",
   },
 ];
 
